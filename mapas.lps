@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="mapas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmmain"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="18" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mapa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmmapa"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="searchmapa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SearchMapa"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="21" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="germap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GerMap"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="detalhes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDetalhes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="funcoes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="53" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="setmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="23">
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="36" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="185" Column="3" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="9" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="10" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="searchmapa.pas"/>
+        <Caret Line="11" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="funcoes.pas"/>
+        <Caret Line="11" Column="53"/>
+      </Position>
+      <Position>
+        <Filename Value="searchmapa.pas"/>
+        <Caret Line="11" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="9" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="11" Column="55"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="11" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="14" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="172" Column="34" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="176" Column="9" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="184" Column="143" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="171" Column="25" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="94" Column="32" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="119" Column="20" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="171" Column="25" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="179" Column="25" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="152" Column="36" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="188" Column="37" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="mapa.pas"/>
+        <Caret Line="261" Column="39" TopLine="231"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="mapa.pas"/>
+        <Line Value="222"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

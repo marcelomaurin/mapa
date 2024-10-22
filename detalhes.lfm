@@ -1,0 +1,50 @@
+object frmDetalhes: TfrmDetalhes
+  Left = 1647
+  Height = 427
+  Top = 203
+  Width = 248
+  Caption = 'frmDetalhes'
+  ClientHeight = 427
+  ClientWidth = 248
+  LCLVersion = '3.4.0.0'
+  object lblatitude: TLabel
+    Left = 24
+    Height = 15
+    Top = 8
+    Width = 46
+    Caption = 'Latitude:'
+  end
+  object edLatitude: TEdit
+    Left = 72
+    Height = 23
+    Top = 7
+    Width = 80
+    TabOrder = 0
+    Text = 'edLatitude'
+  end
+  object lbLongitude: TLabel
+    Left = 13
+    Height = 15
+    Top = 36
+    Width = 57
+    Caption = 'Longitude:'
+  end
+  object edLongitude: TEdit
+    Left = 72
+    Height = 23
+    Top = 35
+    Width = 80
+    TabOrder = 1
+    Text = 'edLongitude'
+    OnChange = edLongitudeChange
+  end
+  object btFechar: TButton
+    Left = 160
+    Height = 25
+    Top = 392
+    Width = 75
+    Caption = 'Fechar'
+    TabOrder = 2
+    OnClick = btFecharClick
+  end
+end

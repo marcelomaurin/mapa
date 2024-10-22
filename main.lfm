@@ -1,0 +1,19 @@
+object frmmain: Tfrmmain
+  Left = 656
+  Height = 240
+  Top = 307
+  Width = 320
+  Caption = 'Main'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '3.4.0.0'
+  object btMapa: TButton
+    Left = 93
+    Height = 25
+    Top = 64
+    Width = 75
+    Caption = 'Mapas'
+    TabOrder = 0
+    OnClick = btMapaClick
+  end
+end
